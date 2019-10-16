@@ -6,11 +6,11 @@ Zkouším různé možnosti zakódování molekul:
 1) fingerprinty: MACCs, Morganovy
 2) Stringy
 3) Obrázky:
-![Screenshot](png/mol2pic.PNG?raw=true "Mol to Picture")
+![Screenshot](png/mol2pic.PNG)
 
 Tady to je pokus o zakódování rekce ve smiles do obrazku.
 Následně jsem zkoušla krmit těmito daty autoencoder a LSTM síť:
-![Screenshot](png/orig_pred.PNG?raw=true "LSTM výsledky")
+![Screenshot](png/orig_pred.PNG)
 
 Tohle je výsledek po 60 generacích, což je málo. Nemyslím si, že by takhle postavená síť někam vyloženě vedla, ale chtěla jsem zkusit co to bude dělat.
 
