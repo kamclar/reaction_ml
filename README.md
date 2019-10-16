@@ -13,6 +13,7 @@ Tady to je pokus o zakódování reakce ve smiles do obrázku.
 Následně jsem zkoušela použít je jako vstup do autoencoderové a LSTM sítě:
 
 ![prediction](png/orig_pred.PNG)
+![prediction 2](png/orig_pred_02.PNG)
 
 Výsledek po 60 epochách, což je málo. Nemyslím si, že by takhle postavená síť někam vyloženě vedla, ale chtěla jsem zkusit co to bude dělat.
 
